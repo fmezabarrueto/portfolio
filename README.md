@@ -31,8 +31,8 @@ Lead business analysis projects and implement data science solutions to optimize
 - Applied advanced data visualization to communicate insights and drive actionable recommendations for cross-functional teams.
 
 ## Projects & Achievements
-###**Churn Prediction Model:** Designed a logistic regression model to predict customer churn in a telecommunications dataset, directly contributing to customer retention strategies.
+### **Churn Prediction Model:** Designed a logistic regression model to predict customer churn in a telecommunications dataset, directly contributing to customer retention strategies.
 
-###**Revenue Optimization Analysis:** Conducted a data-driven assessment of pricing structures for Grupo GTD’s services, resulting in a 10% revenue increase through optimized pricing adjustments.
+### **Revenue Optimization Analysis:** Conducted a data-driven assessment of pricing structures for Grupo GTD’s services, resulting in a 10% revenue increase through optimized pricing adjustments.
 
 
