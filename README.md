@@ -2,6 +2,7 @@
 
 ## Education
 Ingeniero en Telecomunicaciones, Universidad de Concepción
+
 Diplomado en Applied Data Science, Universidad Adolfo Ibañez
 
 ## Work Experience
