@@ -6,12 +6,16 @@ Data Scientist and Telecommunications Engineer with a strong background in data 
 
 ## Technical Skills
 Programming & Data Science: R, SQL, Python, MATLAB
+
 Cloud Platforms: Google Cloud Platform (GCP)
+
 Data Visualization & Analysis: Tableau, Power BI, LookerStudio
+
 Machine Learning: Predictive modeling, logistic regression, segmentation
 
 ## Education
 Bachelor’s in Telecommunications Engineering – Universidad de Concepción (2016)
+
 Diploma in Applied Data Science – Universidad Adolfo Ibañez (2023)
 
 ## Work Experience
@@ -19,12 +23,13 @@ Diploma in Applied Data Science – Universidad Adolfo Ibañez (2023)
 Product Business Analyst @ Grupo GTD 
 Lead business analysis projects and implement data science solutions to optimize customer insights, support strategic decisions, and align business goals. Key achievements include:
 
-Developed predictive churn models for the telecommunications sector, improving customer retention strategies.
-Conducted financial risk analysis and segmented customer data to identify trends and optimize revenue streams.
-Applied advanced data visualization to communicate insights and drive actionable recommendations for cross-functional teams.
+- Developed predictive churn models for the telecommunications sector, improving customer retention strategies.
+- Conducted financial risk analysis and segmented customer data to identify trends and optimize revenue streams.
+- Applied advanced data visualization to communicate insights and drive actionable recommendations for cross-functional teams.
 
 ## Projects & Achievements
 Churn Prediction Model: Designed a logistic regression model to predict customer churn in a telecommunications dataset, directly contributing to customer retention strategies.
+
 Revenue Optimization Analysis: Conducted a data-driven assessment of pricing structures for Grupo GTD’s services, resulting in a 10% revenue increase through optimized pricing adjustments.
 
 
