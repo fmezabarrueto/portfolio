@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist - Telecommunications Engineer
 ### Technical Skills: R, SQL, GCP, Python, MATLAB
 
 ## Summary
